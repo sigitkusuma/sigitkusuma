@@ -9,6 +9,21 @@ You can find me on [Instagram](https://www.instagram.com/geek.shift/) & [Fiverr]
 ### Resources on GitHub 📚
 - [Docker-Compose](https://github.com/sigitkusuma/home-lab/tree/main/Docker-Compose) - Template for Docker Project.
 - Reference for tools & Technology
+- Synology NAS
+- Nextcloud
+- Tech Tips - You should know - to make your life easier 😁
+
+### Specialities
+<details>
+<summary>My top Expertice</summary>
+
+| Rank | Tech |
+|-----:|-----------|
+|     1| Synology NAS|
+|     2| Nextcloud|
+|     3| Mikrotik|
+
+</details>
 
 <!--
 **sigitkusuma/sigitkusuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
