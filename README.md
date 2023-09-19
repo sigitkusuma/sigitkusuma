@@ -10,7 +10,7 @@ You can find me on [Instagram](https://www.instagram.com/geek.shift/) & [Fiverr]
 - [Docker-Compose](https://github.com/sigitkusuma/home-lab/tree/main/Docker-Compose) - Template for Docker Project.
 - Reference for tools & Technology
 - Synology NAS - Synology NAS Configuration option.
-- Nextcloud - Configuration & troubleshooting issue.
+- [Nextcloud](https://github.com/sigitkusuma/nextcloud) - Configuration & troubleshooting issue.
 - Proxmox - Setup some features.
 - Mikrotik - Configuration networking for home and industry.
 - Tech Tips - You should know - to make your life easier 😁
