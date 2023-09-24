@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Sigit, Tech Enthusiast from Indonesia & I love to explore technology and helping people in IT. 
+I'm Sigit, Tech Enthusiast from Indonesia & I love to explore **Technology**, helping & outreach people in **IT**.
+
 My vision is to start where we are and make sure everything in IT works properly. 😃 
 
 ### How to reach me ☕
