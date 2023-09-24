@@ -6,6 +6,9 @@ My vision is to start where we are and make sure everything works properly. 😃
 ### How to reach me ☕
 You can find me on [Instagram](https://www.instagram.com/geek.shift/) & [Fiverr](https://www.fiverr.com/sigitkusuma606)
 
+### What's is on my home lab🏡
+- [Home Lab](https://homer.geekshift.site) - My Home Lab.
+
 ### Resources on GitHub 📚
 - [Docker-Compose](https://github.com/sigitkusuma/home-lab/tree/main/Docker-Compose) - Template for Docker Project.
 - Reference for tools & Technology
