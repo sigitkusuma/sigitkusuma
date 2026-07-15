@@ -5,17 +5,12 @@ I'm Sigit, System Administrator from Indonesia & I love to explore **Technology*
 My vision is to start where we are and make sure everything in IT works properly. 😃 
 
 ### How to reach me ☕
-You can find me on [Instagram](https://www.instagram.com/geek.shift/) & [Fiverr](https://www.fiverr.com/sigitkusuma606)
-
-### What's is on my home lab🏡
-- [Home Lab](https://homer.geekshift.site) - My Home Lab.
+You can find me on [Fiverr](https://www.fiverr.com/sigitkusuma606)
 
 ### Resources on GitHub 📚
-- [Docker-Compose](https://github.com/sigitkusuma/home-lab/tree/main/Docker-Compose) - Template for Docker Project.
+- [MacDupl](https://macdupl.app) - MacDupl clones the desktop apps you already use into fully isolated instances — separate logins, separate data, separate Dock icons. Work and personal, side by side. No more logging out.
 - [Nextcloud](https://github.com/sigitkusuma/nextcloud) - Configuration & troubleshooting issue.
 - Synology NAS - Synology NAS Configuration option.
-- Proxmox - Setup some features.
-- Mikrotik - Configuration networking for home and industry.
 - Tech Tips - You should know - to make your life easier 😁
 - Reference for tools & Technology
 
