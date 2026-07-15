@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sigit, System Administrator from Indonesia & I love to explore **Technology**, helping & outreach people in **IT**.
+I'm Sigit, AI Automation | Solo Developer | Digital Transformation Enabler from Indonesia & I love to explore **Technology**, helping & outreach people in **IT**.
 
 My vision is to start where we are and make sure everything in IT works properly. 😃 
 
