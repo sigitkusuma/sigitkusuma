@@ -1,41 +1,68 @@
-### Hi there 👋
+<h1 align="center">Sigit Kusuma</h1>
 
-I'm Sigit, AI Automation | Solo Developer | Digital Transformation Enabler from Indonesia & I love to explore **Technology**, helping & outreach people in **IT**.
+<p align="center">
+  <strong>Solo Developer</strong>
+</p>
 
-My vision is to start where we are and make sure everything in IT works properly. 😃 
+<p align="center">
+  <em>Start where I am, and make sure everything works properly.</em>
+</p>
 
-### How to reach me ☕
-You can find me on [Fiverr](https://www.fiverr.com/sigitkusuma606)
+<p align="center">
+  <a href="https://jasakonfig.com"><img src="https://img.shields.io/badge/WEBSITE-jasakonfig.com-black?style=for-the-badge" alt="Website"></a>
+  <a href="https://www.fiverr.com/sigitkusuma606"><img src="https://img.shields.io/badge/FIVERR-sigitkusuma606-1dbf73?style=for-the-badge" alt="Fiverr"></a>
+</p>
 
-### Resources on GitHub 📚
-- [MacDupl](https://macdupl.app) - MacDupl clones the desktop apps you already use into fully isolated instances — separate logins, separate data, separate Dock icons. Work and personal, side by side. No more logging out.
-- [Nextcloud](https://github.com/sigitkusuma/nextcloud) - Configuration & troubleshooting issue.
-- Synology NAS - Synology NAS Configuration option.
-- Tech Tips - You should know - to make your life easier 😁
-- Reference for tools & Technology
+---
 
-<!--
-### Specialities
-<details>
-<summary>My top Expertice</summary>
+I build tools I wanted to exist — mostly native macOS apps, plus AI automation and IT infrastructure work for small businesses. I care about software that stays out of the way: small binaries, local-first data, no accounts to sign into.
 
-| Rank | Tech |
-|-----:|-----------|
-|     1| Synology NAS|
-|     2| Nextcloud|
-|     3| Mikrotik|
+**Focus areas:** macOS Apps, AI Automation, IT Infrastructure
 
-</details>
-**sigitkusuma/sigitkusuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🖥️ Mac Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="80" align="center"><img src="assets/macdupl-icon.png" width="56" alt="MacDupl"></td>
+    <td>
+      <a href="https://macdupl.app"><strong>MacDupl</strong></a>
+      <img src="https://img.shields.io/badge/macOS-13.0+-black?style=flat-square&logo=apple" alt="macOS 13+">
+      <br>
+      Run multiple isolated instances of the same macOS app — separate logins, caches, and Dock icons per instance. Built for juggling work, personal, and client accounts in Slack, Claude, Discord, Notion, and other Electron apps.
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center"><img src="assets/copas-icon.png" width="56" alt="Copas"></td>
+    <td>
+      <a href="https://github.com/sigitkusuma/copas"><strong>Copas</strong></a>
+      <img src="https://img.shields.io/github/stars/sigitkusuma/copas?style=flat-square&color=orange&label=stars" alt="Stars">
+      <img src="https://img.shields.io/github/downloads/sigitkusuma/copas/total?style=flat-square&color=blue&label=downloads" alt="Downloads">
+      <br>
+      A lightweight, private clipboard manager for macOS — searchable history, tags, pins, and <strong>Capture to Text</strong>: drag over any region of the screen and its text lands on your clipboard, recognized entirely on-device.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🧰 Home Lab & IT Notes
+
+- **[Nextcloud](https://github.com/sigitkusuma/nextcloud)** — configuration and troubleshooting notes
+- **Synology NAS** — setup and configuration options
+- **Mikrotik** — networking configuration
+- Tech tips and tooling references, collected as I go
+
+<br>
+
+## 📫 Reach me
+
+- 🌐 [jasakonfig.com](https://jasakonfig.com)
+- 💼 [Fiverr](https://www.fiverr.com/sigitkusuma606)
+
+<br>
+
+<p align="center">
+  <sub>Built in Indonesia 🇮🇩</sub>
+</p>
