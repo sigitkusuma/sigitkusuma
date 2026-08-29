@@ -47,15 +47,6 @@ I build in two directions. Native macOS apps — small binaries, local-first dat
 
 <br>
 
-## 🧰 Home Lab & IT Notes
-
-- **[Nextcloud](https://github.com/sigitkusuma/nextcloud)** — configuration and troubleshooting notes
-- **Synology NAS** — setup and configuration options
-- **Mikrotik** — networking configuration
-- Tech tips and tooling references, collected as I go
-
-<br>
-
 ## 📫 Reach me
 
 - 🌐 [jasakonfig.com](https://jasakonfig.com)
