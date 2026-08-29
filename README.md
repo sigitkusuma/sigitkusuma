@@ -1,11 +1,11 @@
 <h1 align="center">Sigit Kusuma</h1>
 
 <p align="center">
-  <strong>Solo Developer</strong>
+  <strong>Builder</strong>
 </p>
 
 <p align="center">
-  <em>Start where I am, and make sure everything works properly.</em>
+  <em>Systems that keep running after I hand them over.</em>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ---
 
-I build tools I wanted to exist — mostly native macOS apps, plus AI automation and IT infrastructure work for small businesses. I care about software that stays out of the way: small binaries, local-first data, no accounts to sign into.
+I build in two directions. Native macOS apps — small binaries, local-first data, no accounts to sign into. And business systems through [JasaKonfig](https://jasakonfig.com): workflow automation and AI agents, internal applications, private cloud, and workspace management — documented and handed over so the client's own team can run them.
 
-**Focus areas:** macOS Apps, AI Automation, IT Infrastructure
+**Focus areas:** macOS Apps, Automation & AI, Business Applications, Private Cloud, Workspace Management
 
 <br>
 
