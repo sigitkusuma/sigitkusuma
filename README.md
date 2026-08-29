@@ -25,7 +25,7 @@ I build tools I wanted to exist — mostly native macOS apps, plus AI automation
 
 <table>
   <tr>
-    <td width="80" align="center"><img src="assets/macdupl-icon.png" width="56" alt="MacDupl"></td>
+    <td width="80" align="center"><img src="https://raw.githubusercontent.com/sigitkusuma/sigitkusuma/main/assets/macdupl-icon.png" width="56" alt="MacDupl"></td>
     <td>
       <a href="https://macdupl.app"><strong>MacDupl</strong></a>
       <img src="https://img.shields.io/badge/macOS-13.0+-black?style=flat-square&logo=apple" alt="macOS 13+">
@@ -34,7 +34,7 @@ I build tools I wanted to exist — mostly native macOS apps, plus AI automation
     </td>
   </tr>
   <tr>
-    <td width="80" align="center"><img src="assets/copas-icon.png" width="56" alt="Copas"></td>
+    <td width="80" align="center"><img src="https://raw.githubusercontent.com/sigitkusuma/sigitkusuma/main/assets/copas-icon.png" width="56" alt="Copas"></td>
     <td>
       <a href="https://github.com/sigitkusuma/copas"><strong>Copas</strong></a>
       <img src="https://img.shields.io/github/stars/sigitkusuma/copas?style=flat-square&color=orange&label=stars" alt="Stars">
